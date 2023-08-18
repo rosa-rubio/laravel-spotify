@@ -1,0 +1,30 @@
+.nav-bar {
+    display: flex;
+    color: white;
+    font-family: 'Changa One', cursive;
+    background-color: rgb(45, 45, 91);
+    height: 14rem;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+}
+
+.nav-bar-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    padding: 3rem;
+    background-color: rgb(41, 41, 81);
+}
+
+.nav-bar-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 1rem;
+}
+
+h1 {
+    font-size: 5rem;
+}
